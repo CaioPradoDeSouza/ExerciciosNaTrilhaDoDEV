@@ -6,7 +6,6 @@ public class DeterminaSeFormaUmTrianguloEx27 {
 	
 	public static void main (String[] args) {
 		
-		Boolean IsTriangulo=false;
 		double num1=0,num2=0,num3=0;
 		
 		Scanner scan = new Scanner(System.in);
